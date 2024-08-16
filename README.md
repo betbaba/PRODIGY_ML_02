@@ -1,1 +1,3 @@
-betty
+Customer Segmentation Using K-means Clustering
+K-means clustering is one of the most popular unsupervised machine learning algorithms used for customer segmentation. It aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean. This method is particularly useful when you have a large dataset and want to find hidden patterns within the data.
+In this project, we use K-means clustering to group customers of a retail store based on their purchase history. The dataset contains information about customers including their age, annual income, and spending score.
